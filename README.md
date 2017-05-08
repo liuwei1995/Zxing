@@ -1,6 +1,6 @@
 # Zxing
 > 这是
-```android
+```java
 public CaptureActivityHandler(CaptureActivity activity,
                            Collection<BarcodeFormat> decodeFormats,
                            Map<DecodeHintType,?> baseHints,
